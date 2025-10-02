@@ -961,7 +961,7 @@ campaignTrail_temp.answers_json = [
     {
         "model": "campaign_trail.answer",
         "pk": 3288,
-        "fields": {
+        "fields": {    
             "question": 336,
             "description": "I'm more worried about Nixon than Wallace. We need to focus on winning Ohio, Missouri, Illinois, and California if we're gonna win."
         }
@@ -1011,7 +1011,7 @@ campaignTrail_temp.states_json = [
         "pk": 8903,
         "fields": {
             "name": "Lower Silesian",
-            "abbr": "Lower Silesian",
+            "abbr": "LowerSilesian",
             "electoral_votes": 0,
             "popular_votes": 663831,
             "poll_closing_time": 120,
@@ -1024,7 +1024,7 @@ campaignTrail_temp.states_json = [
         "pk": 8915,
         "fields": {
             "name": "Kuyavian-Pomeranian",
-            "abbr": "Kuyavian-Pomeranian",
+            "abbr": "KuyavianPomeranian",
             "electoral_votes": 0,
             "popular_votes": 476728,
             "poll_closing_time": 120,
@@ -1050,7 +1050,7 @@ campaignTrail_temp.states_json = [
         "pk": 8939,
         "fields": {
             "name": "Lesser Poland",
-            "abbr": "Lesser Poland",
+            "abbr": "LesserPoland",
             "electoral_votes": 0,
             "popular_votes": 1107590,
             "poll_closing_time": 120,
@@ -1154,7 +1154,7 @@ campaignTrail_temp.states_json = [
         "pk": 9035,
         "fields": {
             "name": "Warmian-Masurian",
-            "abbr": "Warmian-Masurian",
+            "abbr": "WarmianMasurian",
             "electoral_votes": 0,
             "popular_votes": 325723,
             "poll_closing_time": 120,
@@ -1167,7 +1167,7 @@ campaignTrail_temp.states_json = [
         "pk": 9047,
         "fields": {
             "name": "Greater Poland",
-            "abbr": "Greater Poland",
+            "abbr": "GreaterPoland",
             "electoral_votes": 0,
             "popular_votes": 829509,
             "poll_closing_time": 120,
@@ -1180,7 +1180,7 @@ campaignTrail_temp.states_json = [
         "pk": 9059,
         "fields": {
             "name": "West Pomeranian",
-            "abbr": "West Pomeranian",
+            "abbr": "WestPomeranian",
             "electoral_votes": 0,
             "popular_votes": 367096,
             "poll_closing_time": 120,
